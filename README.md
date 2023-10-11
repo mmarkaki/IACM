@@ -2,8 +2,8 @@
 "Debugged" Code from (https://github.com/facebookresearch/vocoder-benchmark) with Results; original wav files from 
 https://github.com/mikerapt/WaveRNN-PyTorch/tree/main/inference.
 
-Here are the synthesized files using Wavenet vocoder with the best configuration for LJ Speech (μ-law compression on the input waveform) 
-as reported in the corresponding paper:
+Here are the synthesized files using Wavenet vocoder with the best configuration for LJ Speech (μ-law compression on the input waveform,
+as well as normal loss for the loss function) as reported in the corresponding paper:
 
 "For each of the vocoders, we start from the original configuration provided in the respective open-source implementation.
 However for WaveNet, there are different configurations that we can chose from. They vary in terms of input types and
