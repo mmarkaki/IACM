@@ -1,6 +1,6 @@
 # IACM
 "Debugged" Code from (https://github.com/facebookresearch/vocoder-benchmark) with Results; original wav files from 
-https://github.com/mikerapt/WaveRNN-PyTorch/tree/main/inference.
+https://github.com/mikerapt/WaveRNN-PyTorch/tree/main/inference as well as LJ Speech.
 
 Here are the synthesized files using Wavenet vocoder with the best configuration for LJ Speech (μ-law compression on the input waveform,
 as well as normal loss for the loss function) as reported in the corresponding paper:
